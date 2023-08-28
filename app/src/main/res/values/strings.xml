@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    <string name="ayamasem">
+            1 ekor ayam, potong menjadi potongan kecil
+    \n2 lembar daun salam
+    \n2 batang serai, memarkan
+    \n3 lembar daun jeruk purut
+    \n3 buah cabai merah besar, iris tipis (sesuai selera)
+    \n2 buah tomat, potong-potong
+    \n2 buah asam jawa, peras airnya
+    \nGula pasir secukupnya
+    \nGaram secukupnya
+    \nMinyak goreng secukupnya
+    \nAir secukupnya
+    </string>
+
+
+    <string name="ayamasemDesc">
+            1. Persiapan Ayam: Bersihkan dan potong ayam menjadi potongan kecil sesuai selera. Cuci bersih dan tiriskan.
+
+    \n2. Membuat Bumbu Halus: Haluskan semua bahan bumbu halus dengan blender atau ulekan.
+
+    \n3. Menumis Bumbu Halus: Panaskan sedikit minyak goreng dalam wajan besar. Tumis bumbu halus hingga harum dan berubah warna.
+
+    \n4. Tambahkan Ayam: Masukkan potongan ayam ke dalam wajan berisi bumbu tumis. Aduk rata dan tumis hingga ayam berubah warna.
+
+    \n5. Tambahkan Air: Tuangkan air secukupnya ke dalam wajan hingga ayam terendam. Masukkan daun salam, serai, dan daun jeruk purut. Biarkan mendidih.
+
+    \n6. Tambahkan Cabai Merah: Setelah mendidih, masukkan cabai merah iris, tomat, dan asam jawa yang telah dilarutkan dalam sedikit air. Aduk rata.
+
+    \n7. Bumbui: Tambahkan garam dan gula pasir sesuai dengan selera Anda. Aduk rata dan cicipi rasanya. Jika ingin lebih asam, tambahkan asam jawa sesuai selera.
+
+    \n8. Masak hingga Ayam Lunak: Masak ayam dengan api sedang hingga ayam menjadi empuk dan bumbu meresap. Pastikan cek rasa sesuai selera Anda dengan menambahkan gula, garam, atau asam jawa jika diperlukan.
+
+    \n9. Sajikan: Ayam Asem Banyuwangi siap disajikan. Hidangkan panas dengan nasi putih hangat sebagai pendampingnya.
+    </string>
+
+    //ayam pedas
+
+
+    <string name="ayampedas">
+    1 ekor ayam, potong menjadi potongan kecil
+    \n3-4 batang serai, memarkan
+    \n5 lembar daun jeruk purut
+    \n5 lembar daun salam
+    \n4 buah cabai merah besar, iris tipis (sesuai selera)
+    \n4 buah cabai rawit merah (atau sesuai selera), iris tipis
+    \n2 buah tomat, potong-potong
+    \n2 sendok makan minyak goreng
+    \nAir secukupnya
+    \nGula pasir secukupnya
+    \nGaram secukupnya
+    </string>
+
+    <string name="ayampedasDesc">
+            1. Persiapan Ayam: Bersihkan dan potong ayam menjadi potongan kecil sesuai selera. Cuci bersih dan tiriskan.
+
+    \n2. Membuat Bumbu Halus: Haluskan semua bahan bumbu halus dengan blender atau ulekan.
+
+    \n3. Menumis Bumbu Halus: Panaskan minyak goreng dalam wajan besar. Tumis bumbu halus hingga harum dan berubah warna.
+
+    \n4. Tambahkan Daun Jeruk dan Daun Salam: Masukkan daun jeruk purut dan daun salam ke dalam wajan berisi bumbu tumis. Aduk rata.
+
+    \n5. Tambahkan Ayam: Masukkan potongan ayam ke dalam wajan dengan bumbu. Aduk rata dan tumis hingga ayam berubah warna.
+
+    \n6. Tambahkan Cabai: Tambahkan cabai merah dan cabai rawit ke dalam wajan. Aduk rata dan masak hingga cabai layu.
+
+    \n7. Tambahkan Tomat: Masukkan potongan tomat ke dalam wajan. Aduk rata dan masak hingga tomat mulai hancur.
+
+    \n8. Tambahkan Air: Tuangkan air secukupnya ke dalam wajan hingga ayam terendam. Masukkan serai yang sudah dimemarkan. Biarkan mendidih.
+
+    \n9. Bumbui: Tambahkan gula dan garam sesuai selera. Aduk rata dan cicipi rasanya. Sesuaikan tingkat pedasnya dengan jumlah cabai rawit yang digunakan.
+
+    \n10. Masak hingga Ayam Lunak: Masak ayam dengan api sedang hingga ayam empuk dan bumbu meresap. Pastikan cek rasa dan sesuaikan bumbu jika diperlukan.
+
+    \n11. Sajikan: Ayam Pedas Banyuwangi siap disajikan. Hidangkan panas dengan nasi putih sebagai pendampingnya.
+
+    </string>
+
+    //botoktawon
+
+    <string name="botoktawon">
+        200 gram kelapa parut, ambil santannya
+    \n200 gram tawon (larva lebah) yang telah dikupas bersih dan direbus hingga matang (pastikan tidak ada bagian kepala yang tersisa)
+    </string>
+
+    <string name="botoktawonDesc">
+           1. Persiapan Bahan Utama: Ambil santan dari kelapa parut dengan cara memerasnya. Pastikan santan yang diambil cukup kental. Simpan santan ini.
+
+    \n2. Membuat Bumbu Halus: Haluskan bawang merah, bawang putih, cabai merah, dan kencur dengan ulekan atau blender.
+
+    \n3. Mencampurkan Bahan Utama dan Sayuran: Campur tawon (larva lebah), kelapa parut yang telah diperas, dan sayuran (daun singkong, kacang panjang, tauge) dalam satu wadah besar.
+
+    \n4. Menyediakan Daun Pembungkus: Panaskan daun pisang atau daun kelapa sebentar di atas api atau uap panas untuk melunakkan dan menghilangkan lendirnya. Potong-potong daun tersebut menjadi ukuran yang sesuai.
+
+    \n5. Menggoreng Bumbu Halus: Panaskan sedikit minyak dalam wajan dan tumis bumbu halus hingga harum.
+
+    \n6. Mencampurkan Bumbu ke Campuran Utama: Tuangkan bumbu halus yang telah ditumis ke dalam campuran utama tawon, kelapa, dan sayuran. Aduk rata.
+
+    \n7. Menyusun dan Membungkus: Ambil selembar daun pisang atau daun kelapa yang telah dimakan, letakkan sekitar 2-3 sendok makan campuran tawon dan sayuran di tengahnya. Bungkus rapat-rapat.
+
+    \n8. Pengukusan: Susun paket-paket Botok Tawon dalam alat pengukus yang telah dipanaskan terlebih dahulu. Kukus selama sekitar 30-40 menit hingga matang.
+
+    \n9. Sajikan: Botok Tawon siap disajikan sebagai makanan sampingan atau pelengkap nasi. Anda dapat menyantapnya dengan sambal atau saus kesukaan Anda.
+    </string>
+
+    //nasicawuk
+
+    <string name="nasicawuk">
+        1. 4 butir telur ayam, kocok lepas
+    \n200 gram kelapa parut (kelapa muda lebih baik)
+    \n3 lembar daun salam
+    \n2 batang serai, memarkan
+    \n2 cm lengkuas (laos), memarkan
+    \n2 lembar daun jeruk purut
+    \n2 lembar daun kunyit (opsional)
+    \n2 sdm minyak goreng
+    \nGaram secukupnya
+    </string>
+    <string name="nasicawukDesc">
+        1. Panaskan Minyak: Panaskan minyak dalam wajan besar atau penggorengan.
+
+    \n2. Tumis Bumbu: Tumis daun salam, serai, lengkuas, daun jeruk purut, dan daun kunyit (jika digunakan) dalam minyak panas hingga harum. Pastikan untuk memecahkan aroma bumbu.
+
+    \n3. Tambahkan Kelapa Parut: Tambahkan kelapa parut ke dalam bumbu yang telah ditumis. Aduk rata dan tumis hingga kelapa berubah warna menjadi kecoklatan dan harum. Ini akan memakan waktu beberapa menit.
+
+    \n4. Masukkan Telur: Tuangkan telur yang telah dikocok ke dalam campuran kelapa. Aduk cepat dan merata hingga telur mengental dan tercampur dengan baik dengan kelapa. Aduk selama beberapa menit sampai telur matang dan tercampur dengan kelapa.
+
+    \n5. Bumbui: Tambahkan garam sesuai selera. Aduk rata dan cicipi rasa untuk memastikan bumbu dan garam cukup sesuai selera Anda.
+
+    \n6. Masak Telur Cawuk: Masak telur cawuk hingga matang dan keluar minyak dari kelapa. Pastikan campuran tidak terlalu basah dan kelapa mengering.
+
+    </string>
+
+    //nasikalak
+
+    <string name="nasikalak">
+        1 batang serai, memarkan
+    \n2 lembar daun salam
+    \n2 lembar daun jeruk purut
+    \n3 cm lengkuas (laos), memarkan
+    \n2 buah cabai merah besar, iris tipis (opsional, untuk rasa pedas)
+    \n3 butir bawang merah, iris tipis
+    \n2 siung bawang putih, cincang halus
+    \nMinyak goreng secukupnya
+    </string>
+    <string name="nasikalakDesc">
+        1. Membuat Bumbu Halus: Haluskan bawang merah, bawang putih, kunyit, jahe, lengkuas, kencur (jika digunakan), cabai merah, dan garam dengan blender atau ulekan.
+
+    \n2. Tumis Bumbu Halus: Panaskan minyak goreng dalam wajan besar. Tumis bumbu halus yang telah dihaluskan hingga harum dan berubah warna.
+
+    \n3. Tambahkan Bahan Utama: Tambahkan potongan ikan atau ayam ke dalam bumbu yang telah ditumis. Aduk rata dan tumis hingga berubah warna.
+
+    \n4. Tambahkan Bahan Lainnya: Tambahkan serai, daun salam, daun jeruk purut, cabai merah iris, bawang merah iris, dan bawang putih cincang ke dalam wajan. Aduk rata dan tumis hingga harum.
+
+    \n5. Masukkan Air: Tuangkan air secukupnya ke dalam wajan hingga bahan-bahan utama terendam.
+
+    \n6. Masak hingga Matang: Masak dengan api sedang hingga bahan utama matang dan kuah mengental.
+    </string>
+
+    //pecelpitik
+
+    <string name="pecelpitik">
+        1 ekor ayam, potong menjadi potongan kecil atau sesuai selera
+    \n2 batang serai, memarkan
+    \n2 lembar daun salam
+    \n2 lembar daun jeruk purut
+    \n3 cm lengkuas (laos), memarkan
+    \n2 cm jahe, memarkan
+    \n2 liter air
+    \nGaram secukupnya
+    </string>
+    <string name="pecelpitikDesc">
+    1. Bersihkan ayam dan potong menjadi potongan kecil atau sesuai selera.
+    \n2. Rebus ayam dalam 2 liter air yang telah ditambahkan serai, daun salam, daun jeruk purut, lengkuas, jahe, dan garam. Masak hingga ayam matang dan empuk. Ini mungkin memakan waktu sekitar 30-45 menit tergantung pada potongan ayam yang digunakan.
+    \n3. Setelah ayam matang, tiriskan dan biarkan dingin. Kemudian, goreng ayam hingga kecoklatan dan renyah. Tiriskan minyak berlebihan.
+
+    </string>
+
+    //pindangkoyong
+
+    <string name="pindangkoyong">
+        500 gram ikan tenggiri atau ikan laut lainnya, potong menjadi potongan kecil
+    \n2 liter air
+    \n2 buah belimbing wuluh, potong-potong (jika tidak ada, dapat diganti dengan asam kandis)
+    \n2 batang serai, memarkan
+    \n3 lembar daun salam
+    \n3 lembar daun jeruk purut
+    \n3 cm lengkuas (laos), memarkan
+    \n2 buah tomat, potong-potong
+    \n3 buah cabai merah besar (sesuai selera, bisa lebih jika suka pedas)
+    \n2 sdm minyak sayur
+    \nGaram secukupnya
+    \nGula pasir secukupnya
+    \nAir asam Jawa (secukupnya, sesuai selera)
+
+    </string>
+    <string name="pindangkoyongDesc">
+        1. Membuat Bumbu Halus: Haluskan bawang merah, bawang putih, kunyit, jahe, dan kencur (jika digunakan) dengan blender atau ulekan.
+
+    \n2. Memanaskan Minyak: Panaskan minyak sayur dalam panci besar. Tumis bumbu halus hingga harum dan berubah warna.
+
+    \n3. Menyeduh Bumbu: Tuangkan 2 liter air ke dalam panci yang berisi bumbu tumis. Aduk rata.
+
+    \n4. Menambahkan Bumbu Lainnya: Tambahkan serai, daun salam, daun jeruk purut, lengkuas, tomat, dan belimbing wuluh (atau asam kandis jika digunakan) ke dalam panci. Aduk rata.
+
+    \n5. Menambahkan Ikan: Masukkan potongan ikan ke dalam panci. Masak hingga ikan berubah warna dan matang.
+
+    \n6. Bumbui dengan Garam dan Gula: Tambahkan garam dan gula secukupnya sesuai selera. Aduk rata dan cicipi rasa. Anda juga bisa menambahkan air asam Jawa sesuai dengan selera Anda untuk memberikan rasa asam yang lebih kuat.
+
+    \n7. Tambahkan Cabai Merah: Masukkan cabai merah (sesuai selera, sesuai dengan tingkat kepedasan yang diinginkan) ke dalam panci. Aduk rata dan masak hingga cabai lembut.
+
+    \n8. Sajikan: Pindang Koyong siap disajikan. Hidangkan panas sebagai hidangan utama bersama dengan nasi putih. Anda juga dapat menambahkan irisan daun kemangi atau daun bawang sebagai hiasan jika diinginkan.
+    </string>
+
+
+    //rawon
+
+    <string name="rawon">
+      500 gram daging sapi (bagian empuk seperti sandung lamur atau has dalam), potong menjadi potongan kecil
+    \n2 batang serai, memarkan
+    \n2 lembar daun salam
+    \n2 lembar daun jeruk purut
+    \n3 cm lengkuas (laos), memarkan
+    \n3 buah kluwek, direbus dan dihaluskan (gunakan tangan berlindung atau sendok kayu)
+
+    </string>
+    <string name="rawonDesc">
+       1. Haluskan semua bahan bumbu halus dengan blender atau ulekan hingga menjadi pasta yang halus.
+    \n2. Panaskan minyak sayur dalam panci besar. Tumis bumbu halus yang telah dihaluskan hingga harum dan berubah warna.
+    \n3. Masukkan potongan daging sapi ke dalam bumbu yang telah ditumis. Aduk rata dan tumis hingga daging berubah warna.
+
+    \n4. Tambahkan serai, daun salam, daun jeruk purut, lengkuas, dan kluwek yang sudah dihaluskan ke dalam panci. Aduk rata.
+
+    \n5. Tuangkan air ke dalam panci. Aduk dan biarkan mendidih.
+
+    \n6. Setelah mendidih, kecilkan api dan biarkan masak hingga daging empuk dan kuah mengental (biasanya memakan waktu sekitar 1,5 hingga 2 jam). Tambahkan air jika perlu selama proses memasak.
+
+    \n7. Cicipi kuah Rawon dan tambahkan garam, gula merah, dan terasi (jika digunakan) sesuai selera Anda. Aduk rata dan cicipi lagi hingga mencapai rasa yang diinginkan.
+
+
+    </string>
+
+    //rujaksoto
+
+    <string name="rujaksoto">
+     1 ekor ayam, potong menjadi bagian-bagian
+    \n2 liter air
+    \n2 batang serai, memarkan
+    \n2 lembar daun salam
+    \n2 lembar daun jeruk purut
+    \n3 cm lengkuas (laos), memarkan
+    \n3 butir kemiri, sangrai
+    \n2 cm jahe, memarkan
+    \nGaram secukupnya
+    \nGula secukupnya
+    \nAir jeruk nipis secukupnya
+    \nMinyak goreng secukupnya untuk menumis`
+
+    </string>
+    <string name="rujaksotoDsc">
+        1. Ambil sejumlah lontong atau nasi putih dalam mangkuk.
+
+    \n2. Letakkan potongan ayam soto di atas lontong atau nasi.
+
+    \n3. Sajikan soto dengan saus rujak yang sudah disiapkan.
+
+    \n4. Tambahkan potongan timun, tomat, kecambah, telur rebus, dan kerupuk udang (jika digunakan) sebagai pelengkap.
+
+    \n5. Hias dengan bawang merah goreng dan daun seledri (opsional).
+
+    \n6. Rujak Soto siap disajikan. Campurkan saus rujak dengan soto sesuai selera Anda sebelum mencicipinya. Selamat menikmati!
+    </string>
+
+    //segotempong
+
+    <string name="segotempong">
+          10-15 cabai rawit merah (sesuai selera, bisa lebih jika suka pedas)
+    \n4 siung bawang putih
+    \n4 buah kemiri, sangrai
+    \n1 sdm terasi (optional, untuk rasa gurih)
+    \nGaram secukupnya
+    \nMinyak goreng secukupnya
+      \nKerupuk udang (opsional)
+    \nTelur ceplok (opsional)
+    \nSayuran hijau (misalnya, kangkung, bayam, atau genjer), direbus
+    </string>
+    <string name="segotempongDsc">
+        1. Hidangkan Nasi: Sego Tempong biasanya disajikan dengan nasi panas di piring.
+
+    \n2. Sajikan Sambal Tempong: Sambal tempong yang telah dibuat tadi disajikan sebagai bumbu tambahan. Anda dapat menempatkan sambal ini dalam mangkuk kecil dan menyajikannya di sebelah piring nasi.
+
+    \n3. Tambahkan Pelengkap: Anda dapat menambahkan kerupuk udang, telur ceplok, dan sayuran hijau rebus sebagai pelengkap, sesuai selera.
+
+    \n4. Santap: Campurkan sambal tempong dengan nasi sesuai selera Anda, atau Anda juga bisa mencelupkan nasi ke dalam sambal saat makan. Rasakan sensasi pedas dan nikmati Sego Tempong yang lezat.
+
+        Sego Tempong adalah hidangan yang sangat pedas, jadi pastikan Anda siap untuk rasa pedas yang kuat ketika mencobanya. Selamat menikmati!
+
+    </string>
+
+
+</resources>
